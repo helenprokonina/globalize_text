@@ -1,0 +1,2 @@
+# Globalize text application
+
