@@ -1,6 +1,6 @@
 import streamlit as st 
 from langchain.prompts import PromptTemplate
-from langchain_openai import OpenAI
+from langchain import OpenAI
 from dotenv import load_dotenv, find_dotenv
 
 _ = load_dotenv(find_dotenv())

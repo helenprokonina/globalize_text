@@ -1,4 +1,4 @@
-langchain-openai
+langchain
 streamlit
 openai
 dotenv
